@@ -9,4 +9,4 @@ Course instructor: [Carsten Bauer](https://github.com/crstnbr)
 
 ## Resources
 
-See 
+See the file [RESOURCES.md](https://github.com/crstnbr/julia-workshop-2019/blob/master/RESOURCES.md).
