@@ -4,7 +4,7 @@ An advanced [Julia](https://julialang.org/) workshop for undergraduate/graduate 
 
 Julia installation instructions are available (in german) on the [computer physics course website](http://www.thp.uni-koeln.de/trebst/Lectures/2019-CompPhys.shtml). The instructions at the MIT math department, [julia-mit](https://github.com/mitmath/julia-mit), might be useful as well.
 
-Course instructor: [Carsten Bauer](https://github.com/crstnbr)
+Contact: [Carsten Bauer](https://github.com/crstnbr)
 
 
 ## Resources
