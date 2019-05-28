@@ -9,4 +9,4 @@ Contact: [Carsten Bauer](https://github.com/crstnbr)
 
 ## Resources
 
-See the file [RESOURCES.md](https://github.com/crstnbr/julia-workshop-2019/blob/master/RESOURCES.md).
+Please check out the file [RESOURCES.md](https://github.com/crstnbr/julia-workshop-2019/blob/master/RESOURCES.md) for an (incomplete) list of great material that was helpful in the creation of this course.
