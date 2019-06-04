@@ -9,7 +9,7 @@ Content from many excellent resources went into the course. Let me point you to 
  * http://www.stochasticlifestyle.com/7-julia-gotchas-handle/
  * http://www.stochasticlifestyle.com/comparison-differential-equation-solver-suites-matlab-r-julia-python-c-fortran/
  * https://medium.com/@Jernfrost/defining-custom-units-in-julia-and-python-513c34a4c971
- 
+
  #### Other
  * https://github.com/MikeInnes/diff-zoo
  * https://github.com/FugroRoames/RoamesNotebooks
@@ -20,6 +20,7 @@ Content from many excellent resources went into the course. Let me point you to 
  * http://ucidatascienceinitiative.github.io/IntroToJulia/
  * https://github.com/dpsanders/hands_on_julia
  * https://julialang.org/learning/
+ * <https://www.youtube.com/watch?v=vAp6nUMrKYg>
 
 
 Note: Unfortunately I don't remember all of the resources 😔. If you feel that you should be mentioned above, don't hesitate to contact me and I'll gladly add you to the list!
