@@ -1,6 +1,6 @@
 using Flux
 using Flux: crossentropy, onecold, onehotbatch, params, throttle, @epochs
-using HDF5, Images, RecursiveArrayTools, Plots
+using HDF5, Plots
 using Printf, Statistics, LinearAlgebra
 using Base.Iterators: repeated
 
