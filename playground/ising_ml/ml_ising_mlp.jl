@@ -1,3 +1,5 @@
+using Pkg; Pkg.activate(".");
+
 using Flux
 using Flux: crossentropy, onecold, onehotbatch, params, throttle, @epochs
 using HDF5, Plots
@@ -39,6 +41,7 @@ Y = onehotbatch(labels, 0:1)
 dataset = repeated((X, Y), 10)
 
 # create neural network with 10 hidden units and 2 output neurons
+Random.seed!(123)
 m = Chain(
   Dense(L^2, 10, relu),
   Dense(10, 2),
