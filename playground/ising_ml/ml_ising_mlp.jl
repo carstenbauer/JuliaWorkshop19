@@ -3,7 +3,7 @@ using Pkg; Pkg.activate(".");
 using Flux
 using Flux: crossentropy, onecold, onehotbatch, params, throttle, @epochs
 using HDF5, Plots
-using Printf, Statistics, LinearAlgebra
+using Printf, Statistics, Random
 using Base.Iterators: repeated
 
 # exact critical temperature
