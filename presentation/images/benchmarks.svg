@@ -1,0 +1,1024 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns:gadfly="http://www.gadflyjl.org/ns"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 648 400.5"
+	 style="enable-background:new 0 0 648 400.5;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#6C606B;}
+	.st1{font-family:'Georgia';}
+	.st2{font-size:7.9937px;}
+	.st3{fill:#4C404B;}
+	.st4{font-family:'HelveticaNeue-Black';}
+	.st5{fill:#00BFFF;stroke:#000000;stroke-width:0.3;stroke-opacity:0;}
+	.st6{fill:#D4CA3A;stroke:#000000;stroke-width:0.3;stroke-opacity:0;}
+	.st7{fill:#FF6DAE;stroke:#000000;stroke-width:0.3;stroke-opacity:0;}
+	.st8{fill:#00B78D;stroke:#000000;stroke-width:0.3;stroke-opacity:0;}
+	.st9{fill:#BEA9FF;stroke:#000000;stroke-width:0.3;stroke-opacity:0;}
+	.st10{fill:#FF6765;stroke:#000000;stroke-width:0.3;stroke-opacity:0;}
+	.st11{fill:#C6C6C6;stroke:#000000;stroke-width:0.3;stroke-opacity:0;}
+	.st12{fill:#63DF75;stroke:#000000;stroke-width:0.3;stroke-opacity:0;}
+	.st13{fill:#362A35;}
+	.st14{font-size:10.9984px;}
+	.st15{enable-background:new    ;}
+	.st16{fill:none;stroke:#000000;stroke-width:0.3;}
+	.st17{clip-path:url(#SVGID_2_);}
+	.st18{fill-opacity:0;stroke:#000000;stroke-width:0.3;stroke-opacity:0;}
+	.st19{fill:none;stroke:#D0D0E0;stroke-width:0.2;stroke-dasharray:0.5,0.5;}
+	.st20{fill:#63DF75;stroke:#FFFFFF;stroke-width:0.3;}
+	.st21{fill:#C6C6C6;stroke:#FFFFFF;stroke-width:0.3;}
+	.st22{fill:#FF6765;stroke:#FFFFFF;stroke-width:0.3;}
+	.st23{fill:#BEA9FF;stroke:#FFFFFF;stroke-width:0.3;}
+	.st24{fill:#00B78D;stroke:#FFFFFF;stroke-width:0.3;}
+	.st25{fill:#FF6DAE;stroke:#FFFFFF;stroke-width:0.3;}
+	.st26{fill:#D4CA3A;stroke:#FFFFFF;stroke-width:0.3;}
+	.st27{fill:#00BFFF;stroke:#FFFFFF;stroke-width:0.3;}
+	.st28{font-size:6.6348px;}
+</style>
+<g id="img-403ad6d6-1">
+	<g id="img-403ad6d6-2">
+		<g transform="translate(18.57,132.65)">
+			<g>
+				<text transform="matrix(1 0 0 1 31.5023 248.1631)" class="st0 st1 st2">C</text>
+			</g>
+		</g>
+		<g transform="translate(32.3,132.65)">
+			<g>
+				<text transform="matrix(1 0 0 1 50.5623 248.1631)" class="st0 st1 st2">Julia</text>
+			</g>
+		</g>
+		<g transform="translate(46.03,132.65)">
+			<g>
+				<text transform="matrix(1 0 0 1 71.6243 248.1631)" class="st0 st1 st2">LuaJIT</text>
+			</g>
+		</g>
+		<g transform="translate(59.76,132.65)">
+			<g>
+				<text transform="matrix(1 0 0 1 101.4275 248.1631)" class="st0 st1 st2">Rust</text>
+			</g>
+		</g>
+		<g transform="translate(73.49,132.65)">
+			<g>
+				<text transform="matrix(1 0 0 1 129.7746 248.1631)" class="st0 st1 st2">Go</text>
+			</g>
+		</g>
+		<g transform="translate(87.22,132.65)">
+			<g>
+				<text transform="matrix(1 0 0 1 146.4382 248.1631)" class="st0 st1 st2">Fortran</text>
+			</g>
+		</g>
+		<g transform="translate(100.95,132.65)">
+			<g>
+				<text transform="matrix(1 0 0 1 177.1252 248.1631)" class="st0 st1 st2">Java</text>
+			</g>
+		</g>
+		<g transform="translate(114.68,132.65)">
+			<g>
+				<text transform="matrix(1 0 0 1 191.7858 248.1631)" class="st0 st1 st2">JavaScript</text>
+			</g>
+		</g>
+		<g transform="translate(128.42,132.65)">
+			<g>
+				<text transform="matrix(1 0 0 1 223.1083 248.1631)" class="st0 st1 st2">Matlab</text>
+			</g>
+		</g>
+		<g transform="translate(142.15,132.65)">
+			<g>
+				<text transform="matrix(1 0 0 1 237.5209 248.1631)" class="st0 st1 st2">Mathematica</text>
+			</g>
+		</g>
+		<g transform="translate(155.88,132.65)">
+			<g>
+				<text transform="matrix(1 0 0 1 273.3573 248.1631)" class="st0 st1 st2">Python</text>
+			</g>
+		</g>
+		<g transform="translate(169.61,132.65)">
+			<g>
+				<text transform="matrix(1 0 0 1 308.3685 248.1631)" class="st0 st1 st2">R</text>
+			</g>
+		</g>
+		<g transform="translate(183.34,132.65)">
+			<g>
+				<text transform="matrix(1 0 0 1 324.2635 248.1631)" class="st0 st1 st2">Octave</text>
+			</g>
+		</g>
+	</g>
+	<g id="img-403ad6d6-3">
+		<g id="img-403ad6d6-4">
+			<g id="img-403ad6d6-5" transform="translate(198.14,57.44)">
+				<g>
+					<text transform="matrix(1 0 0 1 363.5163 108.1807)" class="st3 st4 st2">iteration_pi_sum</text>
+				</g>
+			</g>
+			<g id="img-403ad6d6-6" transform="translate(198.14,61.07)">
+				<g>
+					<text transform="matrix(1 0 0 1 363.5163 114.8408)" class="st3 st4 st2">matrix_multiply</text>
+				</g>
+			</g>
+			<g id="img-403ad6d6-7" transform="translate(198.14,64.7)">
+				<g>
+					<text transform="matrix(1 0 0 1 363.5163 121.4998)" class="st3 st4 st2">matrix_statistics</text>
+				</g>
+			</g>
+			<g id="img-403ad6d6-8" transform="translate(198.14,68.32)">
+				<g>
+					<text transform="matrix(1 0 0 1 363.5163 128.1415)" class="st3 st4 st2">parse_integers</text>
+				</g>
+			</g>
+			<g id="img-403ad6d6-9" transform="translate(198.14,71.95)">
+				<g>
+					<text transform="matrix(1 0 0 1 363.5163 134.8016)" class="st3 st4 st2">print_to_file</text>
+				</g>
+			</g>
+			<g id="img-403ad6d6-10" transform="translate(198.14,75.58)">
+				<g>
+					<text transform="matrix(1 0 0 1 363.5163 141.4616)" class="st3 st4 st2">recursion_fibonacci</text>
+				</g>
+			</g>
+			<g id="img-403ad6d6-11" transform="translate(198.14,79.2)">
+				<g>
+					<text transform="matrix(1 0 0 1 363.5163 148.1024)" class="st3 st4 st2">recursion_quicksort</text>
+				</g>
+			</g>
+			<g id="img-403ad6d6-12" transform="translate(198.14,82.83)">
+				<g>
+					<text transform="matrix(1 0 0 1 363.5163 154.7624)" class="st3 st4 st2">userfunc_mandelbrot</text>
+				</g>
+			</g>
+		</g>
+		<g id="img-403ad6d6-13">
+			<g id="img-403ad6d6-14" transform="translate(196.14,57.44)">
+				<circle class="st5" cx="359.8" cy="105.4" r="2.6"/>
+			</g>
+			<g id="img-403ad6d6-15" transform="translate(196.14,61.07)">
+				<circle class="st6" cx="359.8" cy="112" r="2.6"/>
+			</g>
+			<g id="img-403ad6d6-16" transform="translate(196.14,64.7)">
+				<circle class="st7" cx="359.8" cy="118.7" r="2.6"/>
+			</g>
+			<g id="img-403ad6d6-17" transform="translate(196.14,68.32)">
+				<circle class="st8" cx="359.8" cy="125.3" r="2.6"/>
+			</g>
+			<g id="img-403ad6d6-18" transform="translate(196.14,71.95)">
+				<circle class="st9" cx="359.8" cy="132" r="2.6"/>
+			</g>
+			<g id="img-403ad6d6-19" transform="translate(196.14,75.58)">
+				<circle class="st10" cx="359.8" cy="138.7" r="2.6"/>
+			</g>
+			<g id="img-403ad6d6-20" transform="translate(196.14,79.2)">
+				<circle class="st11" cx="359.8" cy="145.3" r="2.6"/>
+			</g>
+			<g id="img-403ad6d6-21" transform="translate(196.14,82.83)">
+				<circle class="st12" cx="359.8" cy="152" r="2.6"/>
+			</g>
+		</g>
+		<g id="img-403ad6d6-22">
+			<g id="img-403ad6d6-23" transform="translate(195.33,53.62)">
+				<g>
+					<text transform="matrix(1 0 0 1 358.3604 98.3747)" class="st13 st4 st14">benchmark</text>
+					<g class="st15">
+						<text transform="matrix(1 0 0 1 358.3604 98.3747)" class="st16 st4 st14">benchmark</text>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<defs>
+			<polyline id="SVGID_1_" points="33.2,14.2 550.9,14.2 550.9,373.2 33.2,373.2 			"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st17">
+			<g id="img-403ad6d6-25">
+				<g id="img-403ad6d6-26" pointer-events="visible">
+					<g id="img-403ad6d6-27" transform="translate(103.01,68.32)">
+						<path class="st18" d="M-69.8-54.1h517.7v359H-69.8V-54.1z"/>
+					</g>
+				</g>
+				<g id="img-403ad6d6-28">
+					<g id="img-403ad6d6-29" transform="translate(103.01,116.6)">
+						<path class="st19" d="M-69.8,213.9h517.7"/>
+					</g>
+					<g id="img-403ad6d6-30" transform="translate(103.01,90.51)">
+						<path class="st19" d="M-69.8,166.1h517.7"/>
+					</g>
+					<g id="img-403ad6d6-31" transform="translate(103.01,64.41)">
+						<path class="st19" d="M-69.8,118.2h517.7"/>
+					</g>
+					<g id="img-403ad6d6-32" transform="translate(103.01,38.31)">
+						<path class="st19" d="M-69.8,70.3h517.7"/>
+					</g>
+					<g id="img-403ad6d6-33" transform="translate(103.01,12.22)">
+						<path class="st19" d="M-69.8,22.4h517.7"/>
+					</g>
+				</g>
+				<g id="img-403ad6d6-34">
+					<g id="img-403ad6d6-35" transform="translate(25.43,68.32)">
+						<path class="st19" d="M46.7-54.1v359"/>
+					</g>
+					<g id="img-403ad6d6-36" transform="translate(39.16,68.32)">
+						<path class="st19" d="M71.8-54.1v359"/>
+					</g>
+					<g id="img-403ad6d6-37" transform="translate(52.89,68.32)">
+						<path class="st19" d="M97-54.1v359"/>
+					</g>
+					<g id="img-403ad6d6-38" transform="translate(66.63,68.32)">
+						<path class="st19" d="M122.2-54.1v359"/>
+					</g>
+					<g id="img-403ad6d6-39" transform="translate(80.36,68.32)">
+						<path class="st19" d="M147.4-54.1v359"/>
+					</g>
+					<g id="img-403ad6d6-40" transform="translate(94.09,68.32)">
+						<path class="st19" d="M172.6-54.1v359"/>
+					</g>
+					<g id="img-403ad6d6-41" transform="translate(107.82,68.32)">
+						<path class="st19" d="M197.8-54.1v359"/>
+					</g>
+					<g id="img-403ad6d6-42" transform="translate(121.55,68.32)">
+						<path class="st19" d="M223-54.1v359"/>
+					</g>
+					<g id="img-403ad6d6-43" transform="translate(135.28,68.32)">
+						<path class="st19" d="M248.2-54.1v359"/>
+					</g>
+					<g id="img-403ad6d6-44" transform="translate(149.01,68.32)">
+						<path class="st19" d="M273.4-54.1v359"/>
+					</g>
+					<g id="img-403ad6d6-45" transform="translate(162.74,68.32)">
+						<path class="st19" d="M298.6-54.1v359"/>
+					</g>
+					<g id="img-403ad6d6-46" transform="translate(176.48,68.32)">
+						<path class="st19" d="M323.8-54.1v359"/>
+					</g>
+				</g>
+				<g id="img-403ad6d6-47">
+					<g id="img-403ad6d6-48">
+						<g id="img-403ad6d6-49">
+							<g id="img-403ad6d6-50">
+								<g id="img-403ad6d6-51">
+									<g id="img-403ad6d6-52" transform="translate(183.34,18.37)">
+										<circle class="st20" cx="336.4" cy="33.7" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-53">
+								<g id="img-403ad6d6-54">
+									<g id="img-403ad6d6-55" transform="translate(183.34,29.27)">
+										<circle class="st21" cx="336.4" cy="53.7" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-56">
+								<g id="img-403ad6d6-57">
+									<g id="img-403ad6d6-58" transform="translate(183.34,12.17)">
+										<circle class="st22" cx="336.4" cy="22.3" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-59">
+								<g id="img-403ad6d6-60">
+									<g id="img-403ad6d6-61" transform="translate(183.34,61.42)">
+										<circle class="st23" cx="336.4" cy="112.7" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-62">
+								<g id="img-403ad6d6-63">
+									<g id="img-403ad6d6-64" transform="translate(183.34,44.6)">
+										<circle class="st24" cx="336.4" cy="81.8" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-65">
+								<g id="img-403ad6d6-66">
+									<g id="img-403ad6d6-67" transform="translate(183.34,73.15)">
+										<circle class="st25" cx="336.4" cy="134.2" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-68">
+								<g id="img-403ad6d6-69">
+									<g id="img-403ad6d6-70" transform="translate(183.34,114.39)">
+										<circle class="st26" cx="336.4" cy="209.9" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-71">
+								<g id="img-403ad6d6-72">
+									<g id="img-403ad6d6-73" transform="translate(183.34,51.31)">
+										<circle class="st27" cx="336.4" cy="94.1" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-74">
+								<g id="img-403ad6d6-75">
+									<g id="img-403ad6d6-76" transform="translate(169.61,56.81)">
+										<circle class="st20" cx="311.2" cy="104.2" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-77">
+								<g id="img-403ad6d6-78">
+									<g id="img-403ad6d6-79" transform="translate(169.61,70.6)">
+										<circle class="st21" cx="311.2" cy="129.5" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-80">
+								<g id="img-403ad6d6-81">
+									<g id="img-403ad6d6-82" transform="translate(169.61,53.41)">
+										<circle class="st22" cx="311.2" cy="98" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-83">
+								<g id="img-403ad6d6-84">
+									<g id="img-403ad6d6-85" transform="translate(169.61,64.23)">
+										<circle class="st23" cx="311.2" cy="117.8" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-86">
+								<g id="img-403ad6d6-87">
+									<g id="img-403ad6d6-88" transform="translate(169.61,72.18)">
+										<circle class="st24" cx="311.2" cy="132.4" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-89">
+								<g id="img-403ad6d6-90">
+									<g id="img-403ad6d6-91" transform="translate(169.61,82.11)">
+										<circle class="st25" cx="311.2" cy="150.6" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-92">
+								<g id="img-403ad6d6-93">
+									<g id="img-403ad6d6-94" transform="translate(169.61,92.67)">
+										<circle class="st26" cx="311.2" cy="170" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-95">
+								<g id="img-403ad6d6-96">
+									<g id="img-403ad6d6-97" transform="translate(169.61,88.73)">
+										<circle class="st27" cx="311.2" cy="162.8" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-98">
+								<g id="img-403ad6d6-99">
+									<g id="img-403ad6d6-100" transform="translate(155.88,69.18)">
+										<circle class="st20" cx="286" cy="126.9" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-101">
+								<g id="img-403ad6d6-102">
+									<g id="img-403ad6d6-103" transform="translate(155.88,75.5)">
+										<circle class="st21" cx="286" cy="138.5" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-104">
+								<g id="img-403ad6d6-105">
+									<g id="img-403ad6d6-106" transform="translate(155.88,65.08)">
+										<circle class="st22" cx="286" cy="119.4" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-107">
+								<g id="img-403ad6d6-108">
+									<g id="img-403ad6d6-109" transform="translate(155.88,98.97)">
+										<circle class="st23" cx="286" cy="181.6" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-110">
+								<g id="img-403ad6d6-111">
+									<g id="img-403ad6d6-112" transform="translate(155.88,82.78)">
+										<circle class="st24" cx="286" cy="151.9" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-113">
+								<g id="img-403ad6d6-114">
+									<g id="img-403ad6d6-115" transform="translate(155.88,84.01)">
+										<circle class="st25" cx="286" cy="154.1" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-116">
+								<g id="img-403ad6d6-117">
+									<g id="img-403ad6d6-118" transform="translate(155.88,114.72)">
+										<circle class="st26" cx="286" cy="210.5" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-119">
+								<g id="img-403ad6d6-120">
+									<g id="img-403ad6d6-121" transform="translate(155.88,86.08)">
+										<circle class="st27" cx="286" cy="157.9" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-122">
+								<g id="img-403ad6d6-123">
+									<g id="img-403ad6d6-124" transform="translate(142.15,83.66)">
+										<circle class="st20" cx="260.8" cy="153.5" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-125">
+								<g id="img-403ad6d6-126">
+									<g id="img-403ad6d6-127" transform="translate(142.15,73.59)">
+										<circle class="st21" cx="260.8" cy="135" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-128">
+								<g id="img-403ad6d6-129">
+									<g id="img-403ad6d6-130" transform="translate(142.15,61.26)">
+										<circle class="st22" cx="260.8" cy="112.4" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-131">
+								<g id="img-403ad6d6-132">
+									<g id="img-403ad6d6-133" transform="translate(142.15,68.97)">
+										<circle class="st23" cx="260.8" cy="126.5" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-134">
+								<g id="img-403ad6d6-135">
+									<g id="img-403ad6d6-136" transform="translate(142.15,81.24)">
+										<circle class="st24" cx="260.8" cy="149" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-137">
+								<g id="img-403ad6d6-138">
+									<g id="img-403ad6d6-139" transform="translate(142.15,93.78)">
+										<circle class="st25" cx="260.8" cy="172.1" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-140">
+								<g id="img-403ad6d6-141">
+									<g id="img-403ad6d6-142" transform="translate(142.15,114.67)">
+										<circle class="st26" cx="260.8" cy="210.4" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-143">
+								<g id="img-403ad6d6-144">
+									<g id="img-403ad6d6-145" transform="translate(142.15,112.34)">
+										<circle class="st27" cx="260.8" cy="206.1" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-146">
+								<g id="img-403ad6d6-147">
+									<g id="img-403ad6d6-148" transform="translate(128.42,90.68)">
+										<circle class="st20" cx="235.6" cy="166.4" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-149">
+								<g id="img-403ad6d6-150">
+									<g id="img-403ad6d6-151" transform="translate(128.42,106.85)">
+										<circle class="st21" cx="235.6" cy="196" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-152">
+								<g id="img-403ad6d6-153">
+									<g id="img-403ad6d6-154" transform="translate(128.42,84.1)">
+										<circle class="st22" cx="235.6" cy="154.3" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-155">
+								<g id="img-403ad6d6-156">
+									<g id="img-403ad6d6-157" transform="translate(128.42,64.22)">
+										<circle class="st23" cx="235.6" cy="117.8" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-158">
+								<g id="img-403ad6d6-159">
+									<g id="img-403ad6d6-160" transform="translate(128.42,57.86)">
+										<circle class="st24" cx="235.6" cy="106.2" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-161">
+								<g id="img-403ad6d6-162">
+									<g id="img-403ad6d6-163" transform="translate(128.42,92.9)">
+										<circle class="st25" cx="235.6" cy="170.4" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-164">
+								<g id="img-403ad6d6-165">
+									<g id="img-403ad6d6-166" transform="translate(128.42,114.87)">
+										<circle class="st26" cx="235.6" cy="210.7" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-167">
+								<g id="img-403ad6d6-168">
+									<g id="img-403ad6d6-169" transform="translate(128.42,116.52)">
+										<circle class="st27" cx="235.6" cy="213.8" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-170">
+								<g id="img-403ad6d6-171">
+									<g id="img-403ad6d6-172" transform="translate(114.68,115.17)">
+										<circle class="st20" cx="210.4" cy="211.3" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-173">
+								<g id="img-403ad6d6-174">
+									<g id="img-403ad6d6-175" transform="translate(114.68,100.11)">
+										<circle class="st21" cx="210.4" cy="183.7" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-176">
+								<g id="img-403ad6d6-177">
+									<g id="img-403ad6d6-178" transform="translate(114.68,102.34)">
+										<circle class="st22" cx="210.4" cy="187.8" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-179">
+								<g id="img-403ad6d6-180">
+									<g id="img-403ad6d6-181" transform="translate(114.68,94.15)">
+										<circle class="st23" cx="210.4" cy="172.7" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-182">
+								<g id="img-403ad6d6-183">
+									<g id="img-403ad6d6-184" transform="translate(114.68,98.28)">
+										<circle class="st24" cx="210.4" cy="180.3" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-185">
+								<g id="img-403ad6d6-186">
+									<g id="img-403ad6d6-187" transform="translate(114.68,86.71)">
+										<circle class="st25" cx="210.4" cy="159.1" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-188">
+								<g id="img-403ad6d6-189">
+									<g id="img-403ad6d6-190" transform="translate(114.68,77.4)">
+										<circle class="st26" cx="210.4" cy="142" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-191">
+								<g id="img-403ad6d6-192">
+									<g id="img-403ad6d6-193" transform="translate(114.68,116.51)">
+										<circle class="st27" cx="210.4" cy="213.8" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-194">
+								<g id="img-403ad6d6-195">
+									<g id="img-403ad6d6-196" transform="translate(100.95,112.57)">
+										<circle class="st20" cx="185.2" cy="206.5" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-197">
+								<g id="img-403ad6d6-198">
+									<g id="img-403ad6d6-199" transform="translate(100.95,104.22)">
+										<circle class="st21" cx="185.2" cy="191.2" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-200">
+								<g id="img-403ad6d6-201">
+									<g id="img-403ad6d6-202" transform="translate(100.95,101.96)">
+										<circle class="st22" cx="185.2" cy="187.1" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-203">
+								<g id="img-403ad6d6-204">
+									<g id="img-403ad6d6-205" transform="translate(100.95,90.91)">
+										<circle class="st23" cx="185.2" cy="166.8" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-206">
+								<g id="img-403ad6d6-207">
+									<g id="img-403ad6d6-208" transform="translate(100.95,103.52)">
+										<circle class="st24" cx="185.2" cy="189.9" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-209">
+								<g id="img-403ad6d6-210">
+									<g id="img-403ad6d6-211" transform="translate(100.95,98.3)">
+										<circle class="st25" cx="185.2" cy="180.3" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-212">
+								<g id="img-403ad6d6-213">
+									<g id="img-403ad6d6-214" transform="translate(100.95,92.93)">
+										<circle class="st26" cx="185.2" cy="170.5" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-215">
+								<g id="img-403ad6d6-216">
+									<g id="img-403ad6d6-217" transform="translate(100.95,115.67)">
+										<circle class="st27" cx="185.2" cy="212.2" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-218">
+								<g id="img-403ad6d6-219">
+									<g id="img-403ad6d6-220" transform="translate(87.22,120.61)">
+										<circle class="st20" cx="160" cy="221.3" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-221">
+								<g id="img-403ad6d6-222">
+									<g id="img-403ad6d6-223" transform="translate(87.22,114.63)">
+										<circle class="st21" cx="160" cy="210.3" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-224">
+								<g id="img-403ad6d6-225">
+									<g id="img-403ad6d6-226" transform="translate(87.22,116.73)">
+										<circle class="st22" cx="160" cy="214.2" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-227">
+								<g id="img-403ad6d6-228">
+									<g id="img-403ad6d6-229" transform="translate(87.22,96.35)">
+										<circle class="st23" cx="160" cy="176.8" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-230">
+								<g id="img-403ad6d6-231">
+									<g id="img-403ad6d6-232" transform="translate(87.22,94.75)">
+										<circle class="st24" cx="160" cy="173.8" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-233">
+								<g id="img-403ad6d6-234">
+									<g id="img-403ad6d6-235" transform="translate(87.22,111.69)">
+										<circle class="st25" cx="160" cy="204.9" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-236">
+								<g id="img-403ad6d6-237">
+									<g id="img-403ad6d6-238" transform="translate(87.22,114.94)">
+										<circle class="st26" cx="160" cy="210.9" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-239">
+								<g id="img-403ad6d6-240">
+									<g id="img-403ad6d6-241" transform="translate(87.22,116.6)">
+										<circle class="st27" cx="160" cy="213.9" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-242">
+								<g id="img-403ad6d6-243">
+									<g id="img-403ad6d6-244" transform="translate(73.49,119.44)">
+										<circle class="st20" cx="134.8" cy="219.1" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-245">
+								<g id="img-403ad6d6-246">
+									<g id="img-403ad6d6-247" transform="translate(73.49,114.14)">
+										<circle class="st21" cx="134.8" cy="209.4" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-248">
+								<g id="img-403ad6d6-249">
+									<g id="img-403ad6d6-250" transform="translate(73.49,109.91)">
+										<circle class="st22" cx="134.8" cy="201.6" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-251">
+								<g id="img-403ad6d6-252">
+									<g id="img-403ad6d6-253" transform="translate(73.49,110.26)">
+										<circle class="st23" cx="134.8" cy="202.3" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-254">
+								<g id="img-403ad6d6-255">
+									<g id="img-403ad6d6-256" transform="translate(73.49,117.06)">
+										<circle class="st24" cx="134.8" cy="214.8" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-257">
+								<g id="img-403ad6d6-258">
+									<g id="img-403ad6d6-259" transform="translate(73.49,96.13)">
+										<circle class="st25" cx="134.8" cy="176.4" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-260">
+								<g id="img-403ad6d6-261">
+									<g id="img-403ad6d6-262" transform="translate(73.49,112.55)">
+										<circle class="st26" cx="134.8" cy="206.5" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-263">
+								<g id="img-403ad6d6-264">
+									<g id="img-403ad6d6-265" transform="translate(73.49,116.6)">
+										<circle class="st27" cx="134.8" cy="213.9" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-266">
+								<g id="img-403ad6d6-267">
+									<g id="img-403ad6d6-268" transform="translate(59.76,119.84)">
+										<circle class="st20" cx="109.6" cy="219.9" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-269">
+								<g id="img-403ad6d6-270">
+									<g id="img-403ad6d6-271" transform="translate(59.76,116.85)">
+										<circle class="st21" cx="109.6" cy="214.4" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-272">
+								<g id="img-403ad6d6-273">
+									<g id="img-403ad6d6-274" transform="translate(59.76,110.42)">
+										<circle class="st22" cx="109.6" cy="202.6" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-275">
+								<g id="img-403ad6d6-276">
+									<g id="img-403ad6d6-277" transform="translate(59.76,117.95)">
+										<circle class="st23" cx="109.6" cy="216.4" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-278">
+								<g id="img-403ad6d6-279">
+									<g id="img-403ad6d6-280" transform="translate(59.76,114.26)">
+										<circle class="st24" cx="109.6" cy="209.6" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-281">
+								<g id="img-403ad6d6-282">
+									<g id="img-403ad6d6-283" transform="translate(59.76,112.51)">
+										<circle class="st25" cx="109.6" cy="206.4" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-284">
+								<g id="img-403ad6d6-285">
+									<g id="img-403ad6d6-286" transform="translate(59.76,115.75)">
+										<circle class="st26" cx="109.6" cy="212.4" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-287">
+								<g id="img-403ad6d6-288">
+									<g id="img-403ad6d6-289" transform="translate(59.76,116.6)">
+										<circle class="st27" cx="109.6" cy="213.9" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-290">
+								<g id="img-403ad6d6-291">
+									<g id="img-403ad6d6-292" transform="translate(46.03,116.56)">
+										<circle class="st20" cx="84.4" cy="213.8" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-293">
+								<g id="img-403ad6d6-294">
+									<g id="img-403ad6d6-295" transform="translate(46.03,111.56)">
+										<circle class="st21" cx="84.4" cy="204.7" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-296">
+								<g id="img-403ad6d6-297">
+									<g id="img-403ad6d6-298" transform="translate(46.03,114.65)">
+										<circle class="st22" cx="84.4" cy="210.3" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-299">
+								<g id="img-403ad6d6-300">
+									<g id="img-403ad6d6-301" transform="translate(46.03,122.32)">
+										<circle class="st23" cx="84.4" cy="224.4" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-302">
+								<g id="img-403ad6d6-303">
+									<g id="img-403ad6d6-304" transform="translate(46.03,116.86)">
+										<circle class="st24" cx="84.4" cy="214.4" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-305">
+								<g id="img-403ad6d6-306">
+									<g id="img-403ad6d6-307" transform="translate(46.03,110.54)">
+										<circle class="st25" cx="84.4" cy="202.8" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-308">
+								<g id="img-403ad6d6-309">
+									<g id="img-403ad6d6-310" transform="translate(46.03,115.72)">
+										<circle class="st26" cx="84.4" cy="212.3" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-311">
+								<g id="img-403ad6d6-312">
+									<g id="img-403ad6d6-313" transform="translate(46.03,116.6)">
+										<circle class="st27" cx="84.4" cy="213.9" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-314">
+								<g id="img-403ad6d6-315">
+									<g id="img-403ad6d6-316" transform="translate(32.3,120.85)">
+										<circle class="st20" cx="59.3" cy="221.7" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-317">
+								<g id="img-403ad6d6-318">
+									<g id="img-403ad6d6-319" transform="translate(32.3,116.64)">
+										<circle class="st21" cx="59.3" cy="214" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-320">
+								<g id="img-403ad6d6-321">
+									<g id="img-403ad6d6-322" transform="translate(32.3,113.4)">
+										<circle class="st22" cx="59.3" cy="208" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-323">
+								<g id="img-403ad6d6-324">
+									<g id="img-403ad6d6-325" transform="translate(32.3,115.58)">
+										<circle class="st23" cx="59.3" cy="212" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-326">
+								<g id="img-403ad6d6-327">
+									<g id="img-403ad6d6-328" transform="translate(32.3,107.7)">
+										<circle class="st24" cx="59.3" cy="197.6" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-329">
+								<g id="img-403ad6d6-330">
+									<g id="img-403ad6d6-331" transform="translate(32.3,111.04)">
+										<circle class="st25" cx="59.3" cy="203.7" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-332">
+								<g id="img-403ad6d6-333">
+									<g id="img-403ad6d6-334" transform="translate(32.3,116.88)">
+										<circle class="st26" cx="59.3" cy="214.4" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-335">
+								<g id="img-403ad6d6-336">
+									<g id="img-403ad6d6-337" transform="translate(32.3,116.48)">
+										<circle class="st27" cx="59.3" cy="213.7" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-338">
+								<g id="img-403ad6d6-339">
+									<g id="img-403ad6d6-340" transform="translate(18.57,116.6)">
+										<circle class="st20" cx="34.1" cy="213.9" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-341">
+								<g id="img-403ad6d6-342">
+									<g id="img-403ad6d6-343" transform="translate(18.57,116.6)">
+										<circle class="st21" cx="34.1" cy="213.9" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-344">
+								<g id="img-403ad6d6-345">
+									<g id="img-403ad6d6-346" transform="translate(18.57,116.6)">
+										<circle class="st22" cx="34.1" cy="213.9" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-347">
+								<g id="img-403ad6d6-348">
+									<g id="img-403ad6d6-349" transform="translate(18.57,116.6)">
+										<circle class="st23" cx="34.1" cy="213.9" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-350">
+								<g id="img-403ad6d6-351">
+									<g id="img-403ad6d6-352" transform="translate(18.57,116.6)">
+										<circle class="st24" cx="34.1" cy="213.9" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-353">
+								<g id="img-403ad6d6-354">
+									<g id="img-403ad6d6-355" transform="translate(18.57,116.6)">
+										<circle class="st25" cx="34.1" cy="213.9" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-356">
+								<g id="img-403ad6d6-357">
+									<g id="img-403ad6d6-358" transform="translate(18.57,116.6)">
+										<circle class="st26" cx="34.1" cy="213.9" r="2.6"/>
+									</g>
+								</g>
+							</g>
+							<g id="img-403ad6d6-359">
+								<g id="img-403ad6d6-360">
+									<g id="img-403ad6d6-361" transform="translate(18.57,116.6)">
+										<circle class="st27" cx="34.1" cy="213.9" r="2.6"/>
+									</g>
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g id="img-403ad6d6-362">
+		<g id="img-403ad6d6-363" transform="translate(10.7,116.6)">
+			<g>
+				<text transform="matrix(1 0 0 1 7.217 216.718)" class="st0 st1 st2">10</text>
+				<text transform="matrix(1 0 0 1 15.5578 212.7375)" class="st0 st1 st28">0</text>
+			</g>
+		</g>
+		<g id="img-403ad6d6-364" transform="translate(10.7,90.51)">
+			<g>
+				<text transform="matrix(1 0 0 1 8.4377 168.8519)" class="st0 st1 st2">10</text>
+				<text transform="matrix(1 0 0 1 16.7785 164.8715)" class="st0 st1 st28">1</text>
+			</g>
+		</g>
+		<g id="img-403ad6d6-365" transform="translate(10.7,64.41)">
+			<g>
+				<text transform="matrix(1 0 0 1 7.5822 120.9685)" class="st0 st1 st2">10</text>
+				<text transform="matrix(1 0 0 1 15.924 116.9871)" class="st0 st1 st28">2</text>
+			</g>
+		</g>
+		<g id="img-403ad6d6-366" transform="translate(10.7,38.31)">
+			<g>
+				<text transform="matrix(1 0 0 1 7.6281 73.0842)" class="st0 st1 st2">10</text>
+				<text transform="matrix(1 0 0 1 15.9689 69.1027)" class="st0 st1 st28">3</text>
+			</g>
+		</g>
+		<g id="img-403ad6d6-367" transform="translate(10.7,12.22)">
+			<g>
+				<text transform="matrix(1 0 0 1 7.5402 25.2181)" class="st0 st1 st2">10</text>
+				<text transform="matrix(1 0 0 1 15.882 21.2367)" class="st0 st1 st28">4</text>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
