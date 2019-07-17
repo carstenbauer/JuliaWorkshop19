@@ -21,6 +21,9 @@ Content from many excellent resources went into the course. Let me point you to 
  * https://github.com/dpsanders/hands_on_julia
  * https://julialang.org/learning/
  * <https://www.youtube.com/watch?v=vAp6nUMrKYg>
+ * <https://github.com/mfalt/juliacourse>
+ * <https://www.youtube.com/watch?v=S6Wx_J4Mk7U>
+ * https://web.mit.edu/18.06/www/Fall17/1806/julia/Julia-intro.pdf
 
 
 Note: Unfortunately I don't remember all of the resources 😔. If you feel that you should be mentioned above, don't hesitate to contact me and I'll gladly add you to the list!
