@@ -17,7 +17,7 @@ Teacher: [Carsten Bauer](https://github.com/crstnbr)
 * [Scoping](1_One/4_scoping.jl)
 * [Machine Learning (the Ising transition)]()
 * [Parallel Computing](3_Three/1_parallel_computing.ipynb)
-* [Metaprogramming in a nutshell]()
+* [Metaprogramming (in a nutshell)]()
 
 ## Resources
 
