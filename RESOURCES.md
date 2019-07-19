@@ -24,6 +24,7 @@ Content from many excellent resources went into the course. Let me point you to 
  * <https://github.com/mfalt/juliacourse>
  * <https://www.youtube.com/watch?v=S6Wx_J4Mk7U>
  * https://web.mit.edu/18.06/www/Fall17/1806/julia/Julia-intro.pdf
+ * https://github.com/mitmath/18S096/blob/master/lectures/lecture7/Metaprogramming.ipynb
 
 
 Note: Unfortunately I don't remember all of the resources 😔. If you feel that you should be mentioned above, don't hesitate to contact me and I'll gladly add you to the list!
