@@ -1,0 +1,8 @@
+# This file is machine-generated - editing it directly is not advised
+
+[[Useless]]
+git-tree-sha1 = "65c93cb5e6b1dd638f2cb44bb5f66bc427523868"
+repo-rev = "master"
+repo-url = "http://github.com/crstnbr/Useless.jl"
+uuid = "844dae10-c0bf-11e8-151a-ff650c5ba20c"
+version = "0.1.0"
