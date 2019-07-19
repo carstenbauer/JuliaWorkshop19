@@ -15,7 +15,7 @@ Teacher: [Carsten Bauer](https://github.com/crstnbr)
 * [Code Specialization](1_One/3_specialization.ipynb)
 * [Gotchas (and how to handle them)](1_One/4_gotchas.ipynb)
 * [Scoping](1_One/4_scoping.jl)
-* [Parallel Computing](3_Three/parallel_computing.ipynb)
+* [Parallel Computing](3_Three/1_parallel_computing.ipynb)
 
 ## Resources
 
