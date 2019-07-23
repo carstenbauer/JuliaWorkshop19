@@ -1,4 +1,4 @@
-# julia-workshop-2019
+# JuliaWorkshop19
 
 An advanced [Julia](https://julialang.org/) workshop for undergraduate/graduate physicists which will take place in summer 2019 at the [University of Cologne](https://www.portal.uni-koeln.de/index.php?id=9441&L=1). Although the course is building upon [CompPhys-2019](https://github.com/trebst/compphys-2019) only rudimentary Julia knowledge should be required to follow along.
 
