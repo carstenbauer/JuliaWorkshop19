@@ -8,18 +8,6 @@ Lunch break (1:15h)
 
 
 
-9:15am - 11:15am ( 2h)
-
-11:30am - 12:30pm (1h)
-
-Lunch break (1h)
-
-1:30pm - 3:30pm (2h)
-
-3:45pm - 4:30pm (45min)
-
-
-
 
 
 **Monday**
