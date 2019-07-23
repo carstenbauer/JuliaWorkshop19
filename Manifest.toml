@@ -373,6 +373,12 @@ git-tree-sha1 = "9dff2d231311da78648abfa3287e3458a578d2f8"
 uuid = "28b8d3ca-fb5f-59d9-8090-bfdbd6d07a71"
 version = "0.40.0"
 
+[[GenericLinearAlgebra]]
+deps = ["LinearAlgebra", "Printf", "Random", "Test"]
+git-tree-sha1 = "ca235f9c4652b31525232a36d7832f5ee681d76a"
+uuid = "14197337-ba66-59df-a3e3-ca00e7dcff7a"
+version = "0.1.0"
+
 [[GenericSVD]]
 deps = ["LinearAlgebra", "Random", "Test"]
 git-tree-sha1 = "8aa93c3f3d81562a8962047eafcc5712af0a0f59"
@@ -524,6 +530,12 @@ deps = ["JSExpr", "JSON", "Observables", "Pkg", "Test", "WebIO"]
 git-tree-sha1 = "5cca7f070f85392cd0f42220c8ea5f7be96dacf4"
 uuid = "bcebb21b-c2e3-54f8-a781-646b90f6d2cc"
 version = "0.2.2"
+
+[[KrylovKit]]
+deps = ["LinearAlgebra", "Printf", "Random", "Test"]
+git-tree-sha1 = "b20b380cc5e28f079ba5212450d7d42a10a85194"
+uuid = "0b1a1467-8014-51b9-945f-bf0ae24f4b77"
+version = "0.3.4"
 
 [[LaTeXStrings]]
 deps = ["Compat"]
