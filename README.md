@@ -8,8 +8,6 @@ Teacher: [Carsten Bauer](https://github.com/crstnbr)
 
 ## Content (WIP)
 
-(incomplete list)
-
 * [Intro Presentation (elevator pitch](presentation/julia.pdf))
 * [Types & Dispatch](1_One/1_types_and_dispatch.ipynb)
 * [Code Specialization](1_One/3_specialization.ipynb)
