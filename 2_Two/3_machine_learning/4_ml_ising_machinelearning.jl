@@ -1,4 +1,7 @@
-using Pkg; Pkg.activate(".");
+#---
+# Download Ising Monte Carlo data from http://carstenbauer.eu/Ising.h5
+#---
+using Pkg; Pkg.activate("../..");
 
 using Flux
 using Flux: crossentropy, onecold, onehotbatch, params, throttle, @epochs
