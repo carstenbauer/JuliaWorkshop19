@@ -6,8 +6,6 @@ Julia installation instructions are available (in german) on the [computer physi
 
 Teacher: [Carsten Bauer](https://github.com/crstnbr)
 
-<a href="https://github.com/crstnbr/JuliaWorkshop19/raw/master/poster/julia_workshop_poster.pdf"><img src="https://github.com/crstnbr/JuliaWorkshop19/raw/master/poster/julia_workshop_poster.png" width=400px></a>
-
 ## Content (WIP)
 
 * [Intro Presentation (elevator pitch](presentation/julia.pdf))
@@ -29,3 +27,7 @@ Teacher: [Carsten Bauer](https://github.com/crstnbr)
 ## Resources
 
 Please check out the file [RESOURCES.md](https://github.com/crstnbr/julia-workshop-2019/blob/master/RESOURCES.md) for an (incomplete) list of great material that was helpful in the creation of this course.
+
+## Poster
+
+<a href="https://github.com/crstnbr/JuliaWorkshop19/raw/master/poster/julia_workshop_poster.pdf"><img src="https://github.com/crstnbr/JuliaWorkshop19/raw/master/poster/julia_workshop_poster.png" width=400px></a>
