@@ -4,7 +4,7 @@
 
 An intermediate [Julia](https://julialang.org/) workshop for undergraduate/graduate physicists which took place in fall 2019 at the [University of Cologne](https://www.portal.uni-koeln.de/index.php?id=9441&L=1). Although the course is building upon [CompPhys-2019](https://github.com/trebst/compphys-2019) only rudimentary Julia knowledge should be required to follow along.
 
-Julia installation instructions are available (in german) here:
+Julia (+ IJulia/Jupyter) installation instructions are available (in german) here:
 
 * [Windows](http://www.thp.uni-koeln.de/trebst/Lectures/CompPhys-2019/julia_windows.pdf) ([Video](http://www.thp.uni-koeln.de/trebst/Lectures/CompPhys-2019/julia_windows.mp4))
 * [Linux](http://www.thp.uni-koeln.de/trebst/Lectures/CompPhys-2019/julia_linux.pdf)
