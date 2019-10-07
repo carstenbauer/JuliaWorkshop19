@@ -1,7 +1,5 @@
 # JuliaWorkshop19
 
-<img src="https://github.com/crstnbr/JuliaWorkshop19/raw/master/orga/schedule.png" width=900px>
-
 An intermediate [Julia](https://julialang.org/) workshop for undergraduate/graduate physicists which took place in fall 2019 at the [University of Cologne](https://www.portal.uni-koeln.de/index.php?id=9441&L=1). Although the course is building upon [CompPhys-2019](https://github.com/trebst/compphys-2019) only rudimentary Julia knowledge should be required to follow along.
 
 Julia installation instructions are available (in german) here: [Windows](http://www.thp.uni-koeln.de/trebst/Lectures/CompPhys-2019/julia_windows.pdf) ([Video](http://www.thp.uni-koeln.de/trebst/Lectures/CompPhys-2019/julia_windows.mp4)), [Linux](http://www.thp.uni-koeln.de/trebst/Lectures/CompPhys-2019/julia_linux.pdf), [MacOS](http://www.thp.uni-koeln.de/trebst/Lectures/CompPhys-2019/julia_macos.pdf).
@@ -9,6 +7,10 @@ Julia installation instructions are available (in german) here: [Windows](http:/
 The instructions at the MIT math department, [julia-mit](https://github.com/mitmath/julia-mit), might be useful as well.
 
 Teacher: [Carsten Bauer](https://github.com/crstnbr)
+
+## Schedule
+
+<img src="https://github.com/crstnbr/JuliaWorkshop19/raw/master/orga/schedule.png" width=900px>
 
 ## Content (WIP)
 
