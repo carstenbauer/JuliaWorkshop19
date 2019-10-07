@@ -12,7 +12,7 @@ Teacher: [Carsten Bauer](https://github.com/crstnbr)
 
 <img src="https://github.com/crstnbr/JuliaWorkshop19/raw/master/orga/schedule.png" width=900px>
 
-## Content (WIP)
+## Content
 
 * [Intro Presentation (elevator pitch](presentation/julia.pdf))
 * [Types & Dispatch](1_One/1_types_and_dispatch.ipynb)
