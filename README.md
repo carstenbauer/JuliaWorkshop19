@@ -10,7 +10,7 @@ Julia (+ IJulia/Jupyter) installation instructions are available (in german) her
 * [Linux](http://www.thp.uni-koeln.de/trebst/Lectures/CompPhys-2019/julia_linux.pdf)
 * [MacOS](http://www.thp.uni-koeln.de/trebst/Lectures/CompPhys-2019/julia_macos.pdf).
 
-The instructions at the MIT math department, [julia-mit](https://github.com/mitmath/julia-mit), might be useful as well.
+The instructions from the MIT math department, [julia-mit](https://github.com/mitmath/julia-mit), might be useful as well.
 
 Teacher: [Carsten Bauer](https://github.com/crstnbr)
 
