@@ -1,6 +1,6 @@
 # JuliaWorkshop19
 
-<a href="https://github.com/crstnbr/JuliaWorkshop19/raw/master/poster/julia_workshop_poster.pdf"><img src="https://github.com/crstnbr/JuliaWorkshop19/raw/master/poster/julia_workshop_poster.png" width=300px></a>
+<img src="https://github.com/crstnbr/JuliaWorkshop19/raw/master/orga/schedule.png" width=900px>
 
 An intermediate [Julia](https://julialang.org/) workshop for undergraduate/graduate physicists which took place in fall 2019 at the [University of Cologne](https://www.portal.uni-koeln.de/index.php?id=9441&L=1). Although the course is building upon [CompPhys-2019](https://github.com/trebst/compphys-2019) only rudimentary Julia knowledge should be required to follow along.
 
@@ -32,6 +32,6 @@ Teacher: [Carsten Bauer](https://github.com/crstnbr)
 
 Please check out the file [RESOURCES.md](https://github.com/crstnbr/julia-workshop-2019/blob/master/RESOURCES.md) for an (incomplete) list of great material that was helpful in the creation of this course.
 
-## Schedule
+## Poster
 
-<img src="https://github.com/crstnbr/JuliaWorkshop19/raw/master/orga/schedule.png" width=900px>
+<a href="https://github.com/crstnbr/JuliaWorkshop19/raw/master/poster/julia_workshop_poster.pdf"><img src="https://github.com/crstnbr/JuliaWorkshop19/raw/master/poster/julia_workshop_poster.png" width=400px></a>
