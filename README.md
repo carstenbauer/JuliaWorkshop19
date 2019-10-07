@@ -32,6 +32,6 @@ Teacher: [Carsten Bauer](https://github.com/crstnbr)
 
 Please check out the file [RESOURCES.md](https://github.com/crstnbr/julia-workshop-2019/blob/master/RESOURCES.md) for an (incomplete) list of great material that was helpful in the creation of this course.
 
-## Poster
+## Schedule
 
-<a href="https://github.com/crstnbr/JuliaWorkshop19/raw/master/poster/julia_workshop_poster.pdf"><img src="https://github.com/crstnbr/JuliaWorkshop19/raw/master/poster/julia_workshop_poster.png" width=400px></a>
+<img src="https://github.com/crstnbr/JuliaWorkshop19/raw/master/orga/schedule.png" width=900px>
