@@ -44,6 +44,10 @@ Feel free to <a href="http://carstenbauer.eu/#contact">contact me</a> if you are
 
 Please check out the file [RESOURCES.md](https://github.com/crstnbr/julia-workshop-2019/blob/master/RESOURCES.md) for an (incomplete) list of great material that was helpful in the creation of this course.
 
+## Student Feedback
+
+<img src="https://github.com/crstnbr/JuliaWorkshop19/raw/master/orga/feedback.png" width=500px>
+
 ## Poster
 
 <a href="https://github.com/crstnbr/JuliaWorkshop19/raw/master/poster/julia_workshop_poster.pdf"><img src="https://github.com/crstnbr/JuliaWorkshop19/raw/master/poster/julia_workshop_poster.png" width=400px></a>
