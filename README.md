@@ -8,7 +8,7 @@ An intermediate [Julia](https://julialang.org/) workshop for undergraduate/gradu
 
 Julia (+ IJulia/Jupyter) installation instructions are available (in german) here:
 
-* [Windows](http://www.thp.uni-koeln.de/trebst/Lectures/CompPhys-2019/julia_windows.pdf) ([Video](http://www.thp.uni-koeln.de/trebst/Lectures/CompPhys-2019/julia_windows.mp4))
+* [Windows](http://www.thp.uni-koeln.de/trebst/Lectures/CompPhys-2019/julia_windows.pdf) ([Video](https://www.youtube.com/watch?v=4Rnm0n39DCs))
 * [Linux](http://www.thp.uni-koeln.de/trebst/Lectures/CompPhys-2019/julia_linux.pdf)
 * [MacOS](http://www.thp.uni-koeln.de/trebst/Lectures/CompPhys-2019/julia_macos.pdf).
 
