@@ -41,6 +41,10 @@ Feel free to <a href="http://carstenbauer.eu/#contact">contact me</a> if you are
 * [Type Piracy](4_Hackathon/type_piracy.ipynb)
 * [Julia on GitHub](4_Hackathon/julia_on_github.ipynb)
 
+## Try it out live! (Beta)
+
+Click on the [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/crstnbr/JuliaWorkshop19/master) badge to dive right into the workshop materials.
+
 ## Resources
 
 Please check out the file [RESOURCES.md](https://github.com/crstnbr/julia-workshop-2019/blob/master/RESOURCES.md) for an (incomplete) list of great material that was helpful in the creation of this course.
