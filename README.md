@@ -1,5 +1,5 @@
 # JuliaWorkshop19
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3604540.svg)](https://doi.org/10.5281/zenodo.3604540)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3604540.svg)](https://doi.org/10.5281/zenodo.3604540) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/crstnbr/JuliaWorkshop19/master)
 
 <p align="center">
   <a href="https://github.com/crstnbr/JuliaWorkshop19/raw/master/presentation/julia.pdf"><img width="700" src="https://github.com/crstnbr/JuliaWorkshop19/raw/master/presentation/front-slide.png"></a>
